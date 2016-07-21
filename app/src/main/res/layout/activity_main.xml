@@ -3,10 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:id="@+id/mainLayout"
     tools:context="com.example.keyboardlayout.MainActivity">
 
-<!--    <include layout="@layout/keyboard_upper" />-->
+<!--    <include layout="@layout/keyboard_upper" /> -->
 <!--    <include layout="@layout/keyboard_lower" /> -->
-        <include layout="@layout/keyboard_number" />
+<!--    <include layout="@layout/keyboard_number" /> -->
 
 </RelativeLayout>
